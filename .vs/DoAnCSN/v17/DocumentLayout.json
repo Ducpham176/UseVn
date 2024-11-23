@@ -1,176 +1,169 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ducph\\source\\usevn\\",
+  "WorkspaceRootPath": "C:\\Users\\ducph\\source\\UseVn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\shared\\layout\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\shared\\layout\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|c:\\users\\ducph\\source\\usevn\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\content\\js\\account\\forgot.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\js\\account\\forgot.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\content\\js\\account\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\content\\js\\account\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\js\\account\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\content\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\shared\\layout\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\shared\\layout\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|c:\\users\\ducph\\source\\usevn\\usevn.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:usevn.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|c:\\users\\ducph\\source\\usevn\\usevn.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:usevn.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\content\\js\\account\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\js\\account\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|c:\\users\\ducph\\source\\usevn\\usevn.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:usevn.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\content\\css\\account\\register_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\css\\account\\register_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\shared\\layout\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\shared\\layout\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|c:\\users\\ducph\\source\\usevn\\content\\js\\root.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\js\\root.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\content\\js\\account\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\js\\account\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\content\\css\\account\\register_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\css\\account\\register_login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\content\\css\\root.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\content\\css\\root.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\css\\root.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\content\\js\\layout\\header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\js\\layout\\header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\content\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\content\\css\\layout\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\css\\layout\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\content\\js\\account\\forgot.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\js\\account\\forgot.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\content\\js\\layout\\header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\js\\layout\\header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\content\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\content\\css\\layout\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\css\\layout\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DoAnCSN||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\content\\css\\layout\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\css\\layout\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\shared\\_spatieude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\shared\\_spatieude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\shared\\_spatieude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\content\\js\\layout\\footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\content\\js\\layout\\footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:content\\js\\layout\\footer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\controllers\\staffpvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\controllers\\staffpvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\staffpvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\models\\qlspa.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\models\\qlspa.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:models\\qlspa.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\shared\\_layoutstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\shared\\_layoutstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\shared\\_layoutstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\user\\thongtinnhanhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\user\\thongtinnhanhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\user\\thongtinnhanhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\user\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\user\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\user\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\admin\\quanlidangkituvan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\admin\\quanlidangkituvan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\admin\\quanlidangkituvan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\usevn\\views\\admin\\sidebar_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|C:\\Users\\ducph\\source\\UseVn\\views\\admin\\sidebar_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D15F6037-4F68-49B2-9B56-7002597108EA}|DoAnCSN.csproj|solutionrelative:views\\admin\\sidebar_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -181,8 +174,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.js",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Content\\Js\\Account\\Register.js",
+              "RelativeDocumentMoniker": "Content\\Js\\Account\\Register.js",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Content\\Js\\Account\\Register.js",
+              "RelativeToolTip": "Content\\Js\\Account\\Register.js",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAKEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-22T15:39:30.487Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Root.js",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Content\\Js\\Root.js",
+              "RelativeDocumentMoniker": "Content\\Js\\Root.js",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Content\\Js\\Root.js",
+              "RelativeToolTip": "Content\\Js\\Root.js",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T13:54:36.428Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:36:08.4Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -217,76 +251,205 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "usevn.Context.tt",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\usevn.Context.tt",
+              "RelativeDocumentMoniker": "usevn.Context.tt",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\usevn.Context.tt",
+              "RelativeToolTip": "usevn.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-23T12:28:11.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "usevn.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\usevn.edmx",
+              "RelativeDocumentMoniker": "usevn.edmx",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\usevn.edmx [Diagram1]",
+              "RelativeToolTip": "usevn.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-23T12:26:43.354Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Content\\Js\\Account\\Login.js",
+              "RelativeDocumentMoniker": "Content\\Js\\Account\\Login.js",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Content\\Js\\Account\\Login.js",
+              "RelativeToolTip": "Content\\Js\\Account\\Login.js",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-22T15:42:23.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:08:46.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:35:44.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "usevn.Context.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\usevn.Context.cs",
+              "RelativeDocumentMoniker": "usevn.Context.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\usevn.Context.cs",
+              "RelativeToolTip": "usevn.Context.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:28:13.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T13:24:00.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register_Login.css",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Content\\Css\\Account\\Register_Login.css",
+              "RelativeDocumentMoniker": "Content\\Css\\Account\\Register_Login.css",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Content\\Css\\Account\\Register_Login.css",
+              "RelativeToolTip": "Content\\Css\\Account\\Register_Login.css",
+              "ViewState": "AgIAAEkDAAAAAAAAAAAIwGMDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-22T15:16:55.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAAAJ8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T13:02:57.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GioHangController.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:17:02.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\Shared\\Layout\\Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Layout\\Footer.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\Shared\\Layout\\Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Layout\\Footer.cshtml",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAYwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T12:46:45.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Root.css",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Content\\Css\\Root.css",
+              "RelativeDocumentMoniker": "Content\\Css\\Root.css",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Content\\Css\\Root.css",
+              "RelativeToolTip": "Content\\Css\\Root.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-20T13:57:30.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T13:04:03.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.js",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Account\\Register.js",
-              "RelativeDocumentMoniker": "Content\\Js\\Account\\Register.js",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Account\\Register.js",
-              "RelativeToolTip": "Content\\Js\\Account\\Register.js",
-              "ViewState": "AgIAABQAAAAAAAAAAAAhwKUBAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-22T15:39:30.487Z",
+              "DocumentIndex": 16,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:40:04.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Root.js",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Root.js",
-              "RelativeDocumentMoniker": "Content\\Js\\Root.js",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Root.js",
-              "RelativeToolTip": "Content\\Js\\Root.js",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAPwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-20T13:54:36.428Z",
+              "DocumentIndex": 17,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:12:23.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Header.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Shared\\Layout\\Header.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Layout\\Header.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Shared\\Layout\\Header.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Layout\\Header.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T12:46:35.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Home.js",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Home.js",
-              "RelativeDocumentMoniker": "Content\\Js\\Home.js",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Home.js",
-              "RelativeToolTip": "Content\\Js\\Home.js",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-20T14:37:07.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "Forgot.js",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Account\\Forgot.js",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Content\\Js\\Account\\Forgot.js",
               "RelativeDocumentMoniker": "Content\\Js\\Account\\Forgot.js",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Account\\Forgot.js",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Content\\Js\\Account\\Forgot.js",
               "RelativeToolTip": "Content\\Js\\Account\\Forgot.js",
               "ViewState": "AgIAAMYAAAAAAAAAAAAowBECAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -295,266 +458,115 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T13:02:57.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Footer.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Shared\\Layout\\Footer.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Layout\\Footer.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Shared\\Layout\\Footer.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Layout\\Footer.cshtml",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAAAIkAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T12:46:45.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T15:08:46.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAACwBAAAAAAAAAAAAAFQBAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T13:14:49.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T13:24:11.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.js",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Account\\Login.js",
-              "RelativeDocumentMoniker": "Content\\Js\\Account\\Login.js",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Account\\Login.js",
-              "RelativeToolTip": "Content\\Js\\Account\\Login.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-22T15:42:23.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T15:40:04.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T13:24:00.093Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvxkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T16:35:44.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LayoutAdmin.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T12:45:03.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T13:01:23.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Root.css",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Css\\Root.css",
-              "RelativeDocumentMoniker": "Content\\Css\\Root.css",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Css\\Root.css",
-              "RelativeToolTip": "Content\\Css\\Root.css",
-              "ViewState": "AgIAACkAAAAAAAAAAAAuwEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-20T13:57:30.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Register_Login.css",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Css\\Account\\Register_Login.css",
-              "RelativeDocumentMoniker": "Content\\Css\\Account\\Register_Login.css",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Css\\Account\\Register_Login.css",
-              "RelativeToolTip": "Content\\Css\\Account\\Register_Login.css",
-              "ViewState": "AgIAAEkDAAAAAAAAAAAIwGMDAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-22T15:16:55.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Style.css",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Css\\Style.css",
-              "RelativeDocumentMoniker": "Content\\Css\\Style.css",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Css\\Style.css",
-              "RelativeToolTip": "Content\\Css\\Style.css",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAAALwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-20T14:25:29.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Header.css",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Css\\Layout\\Header.css",
-              "RelativeDocumentMoniker": "Content\\Css\\Layout\\Header.css",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Css\\Layout\\Header.css",
-              "RelativeToolTip": "Content\\Css\\Layout\\Header.css",
-              "ViewState": "AgIAACkFAAAAAAAAAAAYwDUFAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-20T13:52:40.607Z"
+              "WhenOpened": "2024-11-20T12:45:03.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Header.js",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Layout\\Header.js",
-              "RelativeDocumentMoniker": "Content\\Js\\Layout\\Header.js",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Layout\\Header.js",
-              "RelativeToolTip": "Content\\Js\\Layout\\Header.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-20T13:51:23.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Home.css",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Css\\Home.css",
-              "RelativeDocumentMoniker": "Content\\Css\\Home.css",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Css\\Home.css",
-              "RelativeToolTip": "Content\\Css\\Home.css",
-              "ViewState": "AgIAAIcIAAAAAAAAAAAswKQIAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-20T14:29:33.428Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T13:01:23.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Content\\Css\\Style.css",
+              "RelativeDocumentMoniker": "Content\\Css\\Style.css",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Content\\Css\\Style.css",
+              "RelativeToolTip": "Content\\Css\\Style.css",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAALwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-20T14:25:29.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Header.css",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Content\\Css\\Layout\\Header.css",
+              "RelativeDocumentMoniker": "Content\\Css\\Layout\\Header.css",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Content\\Css\\Layout\\Header.css",
+              "RelativeToolTip": "Content\\Css\\Layout\\Header.css",
+              "ViewState": "AgIAACkFAAAAAAAAAAAYwDUFAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-20T13:52:40.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Header.js",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Content\\Js\\Layout\\Header.js",
+              "RelativeDocumentMoniker": "Content\\Js\\Layout\\Header.js",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Content\\Js\\Layout\\Header.js",
+              "RelativeToolTip": "Content\\Js\\Layout\\Header.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T13:51:23.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Content\\Css\\Home.css",
+              "RelativeDocumentMoniker": "Content\\Css\\Home.css",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Content\\Css\\Home.css",
+              "RelativeToolTip": "Content\\Css\\Home.css",
+              "ViewState": "AgIAAIcIAAAAAAAAAAAswKQIAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-20T14:29:33.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "Product.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Home\\Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\Home\\Product.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Product.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Home\\Product.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\Home\\Product.cshtml",
               "RelativeToolTip": "Views\\Home\\Product.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T15:51:58.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Footer.css",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Css\\Layout\\Footer.css",
-              "RelativeDocumentMoniker": "Content\\Css\\Layout\\Footer.css",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Css\\Layout\\Footer.css",
-              "RelativeToolTip": "Content\\Css\\Layout\\Footer.css",
-              "ViewState": "AgIAALwCAAAAAAAAAAAIwNMCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-20T13:52:51.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "DoAnCSN",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\DoAnCSN.csproj",
-              "RelativeDocumentMoniker": "DoAnCSN.csproj",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\DoAnCSN.csproj",
-              "RelativeToolTip": "DoAnCSN.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-20T14:12:07.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Web.config",
-              "RelativeDocumentMoniker": "Views\\Web.config",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Web.config",
-              "RelativeToolTip": "Views\\Web.config",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-20T14:12:16.479Z"
+              "WhenOpened": "2024-11-21T15:51:58.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Web.config",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Views\\Web.config",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\Web.config",
+              "RelativeToolTip": "Views\\Web.config",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-20T14:12:16.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Web.config",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Web.config",
               "RelativeToolTip": "Web.config",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -563,71 +575,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:12:23.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "FilterConfig.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\App_Start\\FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\App_Start\\FilterConfig.cs",
               "RelativeToolTip": "App_Start\\FilterConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:12:28.51Z"
+              "WhenOpened": "2024-11-20T14:12:28.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_SpaTieuDe.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\Shared\\_SpaTieuDe.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_SpaTieuDe.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\Shared\\_SpaTieuDe.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_SpaTieuDe.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T13:01:23.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "_SpaTieuDe.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Shared\\_SpaTieuDe.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_SpaTieuDe.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Shared\\_SpaTieuDe.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_SpaTieuDe.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T13:01:23.079Z"
+              "Title": "Footer.js",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Content\\Js\\Layout\\Footer.js",
+              "RelativeDocumentMoniker": "Content\\Js\\Layout\\Footer.js",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Content\\Js\\Layout\\Footer.js",
+              "RelativeToolTip": "Content\\Js\\Layout\\Footer.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T13:53:08.412Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "Footer.js",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Layout\\Footer.js",
-              "RelativeDocumentMoniker": "Content\\Js\\Layout\\Footer.js",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Content\\Js\\Layout\\Footer.js",
-              "RelativeToolTip": "Content\\Js\\Layout\\Footer.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-20T13:53:08.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
               "Title": "GioHang.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Models\\GioHang.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Models\\GioHang.cs",
               "RelativeDocumentMoniker": "Models\\GioHang.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Models\\GioHang.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Models\\GioHang.cs",
               "RelativeToolTip": "Models\\GioHang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T13:18:11.503Z"
+              "WhenOpened": "2024-11-20T13:18:11.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "StaffController.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Controllers\\StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\StaffController.cs",
               "RelativeDocumentMoniker": "Controllers\\StaffController.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\StaffController.cs",
               "RelativeToolTip": "Controllers\\StaffController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAywBUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -636,111 +640,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "GioHangController.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Controllers\\GioHangController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GioHangController.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Controllers\\GioHangController.cs",
-              "RelativeToolTip": "Controllers\\GioHangController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAywAwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T13:17:02.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "StaffPVController.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Controllers\\StaffPVController.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\StaffPVController.cs",
               "RelativeDocumentMoniker": "Controllers\\StaffPVController.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Controllers\\StaffPVController.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Controllers\\StaffPVController.cs",
               "RelativeToolTip": "Controllers\\StaffPVController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T13:17:52.948Z"
+              "WhenOpened": "2024-11-20T13:17:52.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "QLSpa.Context.cs",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Models\\QLSpa.Context.cs",
+              "RelativeDocumentMoniker": "Models\\QLSpa.Context.cs",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Models\\QLSpa.Context.cs",
+              "RelativeToolTip": "Models\\QLSpa.Context.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:15:23.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_LayoutStaff.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\Shared\\_LayoutStaff.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutStaff.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\Shared\\_LayoutStaff.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutStaff.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T12:45:04.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "QLSpa.Context.cs",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Models\\QLSpa.Context.cs",
-              "RelativeDocumentMoniker": "Models\\QLSpa.Context.cs",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Models\\QLSpa.Context.cs",
-              "RelativeToolTip": "Models\\QLSpa.Context.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAMwA8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T13:15:23.269Z"
+              "Title": "ThongTinNhanHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\User\\ThongTinNhanHang.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\ThongTinNhanHang.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\User\\ThongTinNhanHang.cshtml",
+              "RelativeToolTip": "Views\\User\\ThongTinNhanHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T12:30:40.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "_LayoutStaff.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Shared\\_LayoutStaff.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutStaff.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Shared\\_LayoutStaff.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LayoutStaff.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\User\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\User\\DangKy.cshtml",
+              "RelativeToolTip": "Views\\User\\DangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T12:45:04.763Z"
+              "WhenOpened": "2024-11-20T12:30:38.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "ThongTinNhanHang.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\User\\ThongTinNhanHang.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\ThongTinNhanHang.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\User\\ThongTinNhanHang.cshtml",
-              "RelativeToolTip": "Views\\User\\ThongTinNhanHang.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T12:30:40.104Z"
+              "WhenOpened": "2024-11-20T12:30:33.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "DangKy.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\User\\DangKy.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\DangKy.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\User\\DangKy.cshtml",
-              "RelativeToolTip": "Views\\User\\DangKy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "QuanLiDangKiTuVan.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\Admin\\QuanLiDangKiTuVan.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\QuanLiDangKiTuVan.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\Admin\\QuanLiDangKiTuVan.cshtml",
+              "RelativeToolTip": "Views\\Admin\\QuanLiDangKiTuVan.cshtml",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAAABkBAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T12:30:38.59Z"
+              "WhenOpened": "2024-11-19T09:38:23.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T12:30:33.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "QuanLiDangKiTuVan.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Admin\\QuanLiDangKiTuVan.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\QuanLiDangKiTuVan.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Admin\\QuanLiDangKiTuVan.cshtml",
-              "RelativeToolTip": "Views\\Admin\\QuanLiDangKiTuVan.cshtml",
-              "ViewState": "AgIAAA4BAAAAAAAAAAAAABkBAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T09:38:23.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
               "Title": "Sidebar_Menu.cshtml",
-              "DocumentMoniker": "C:\\Users\\ducph\\source\\usevn\\Views\\Admin\\Sidebar_Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\ducph\\source\\UseVn\\Views\\Admin\\Sidebar_Menu.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Sidebar_Menu.cshtml",
-              "ToolTip": "C:\\Users\\ducph\\source\\usevn\\Views\\Admin\\Sidebar_Menu.cshtml",
+              "ToolTip": "C:\\Users\\ducph\\source\\UseVn\\Views\\Admin\\Sidebar_Menu.cshtml",
               "RelativeToolTip": "Views\\Admin\\Sidebar_Menu.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T14:17:02.944Z"
+              "WhenOpened": "2024-11-18T14:17:02.944Z",
+              "EditorCaption": ""
             }
           ]
         }

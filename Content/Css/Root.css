@@ -35,7 +35,7 @@ html, body {
     --white: #FFF;
     --clrf8: #f8f8f8;
     --black: #000;
-    --main: #13cdb9;
+    --main: #19d1cf;
     --rendCanva: radial-gradient(100.99% 100.73% at 0% 0%,rgba(0,196,204,.726) 0%,#00c4cc 0.01%,rgba(0,196,204,0) 100%),radial-gradient(68.47% 129.02% at 22.82% 97.71%,#6420ff 0%,rgba(100,32,255,0) 100%),radial-gradient(106.1% 249.18% at 0% 0%,#00c4cc 0%,rgba(0,196,204,0) 100%),radial-gradient(64.14% 115.13% at 5.49% 50%,#6420ff 0%,rgba(100,32,255,0) 100%),#7d2ae7;
     --rendPuwi: linear-gradient(to top, rgb(248 151 74), rgb(233 87 87));
     --rendBuge: linear-gradient(to bottom, rgb(206 130 255), rgb(94 82 255));

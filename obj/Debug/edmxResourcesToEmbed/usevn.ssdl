@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="usevnModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="uv_login_tokens">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="userId" Type="int" />
+    <Property Name="tokenLogin" Type="nvarchar" MaxLength="50" />
+    <Property Name="createAt" Type="datetime" />
+  </EntityType>
+  <EntityType Name="uv_users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fullName" Type="nvarchar" MaxLength="20" />
+    <Property Name="email" Type="nvarchar" MaxLength="80" />
+    <Property Name="password" Type="nvarchar" MaxLength="80" />
+    <Property Name="coin" Type="int" />
+    <Property Name="activeToken" Type="nvarchar" MaxLength="50" />
+    <Property Name="firstLogin" Type="int" />
+    <Property Name="status" Type="int" />
+    <Property Name="avatar" Type="nvarchar" MaxLength="255" />
+    <Property Name="describes" Type="nvarchar(max)" />
+    <Property Name="type" Type="int" />
+    <Property Name="createAt" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="usevnModelStoreContainer">
+    <EntitySet Name="uv_login_tokens" EntityType="Self.uv_login_tokens" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="uv_users" EntityType="Self.uv_users" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

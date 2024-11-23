@@ -5,8 +5,10 @@
     "\\Models",
     "\\Views",
     "\\Views\\Admin",
-    "\\Views\\Home"
+    "\\Views\\Home",
+    "\\Views\\Shared",
+    "\\Views\\Shared\\Layout"
   ],
-  "SelectedNode": "\\Controllers\\AdminController.cs",
+  "SelectedNode": "\\Views\\Shared\\Layout\\Footer.cshtml",
   "PreviewInSolutionExplorer": false
 }

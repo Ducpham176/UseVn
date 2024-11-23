@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="usevnModelStoreContainer" CdmEntityContainer="usevnEntities1">
+    <EntitySetMapping Name="uv_users">
+      <EntityTypeMapping TypeName="usevnModel.uv_users">
+        <MappingFragment StoreEntitySet="uv_users">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="fullName" ColumnName="fullName" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="coin" ColumnName="coin" />
+          <ScalarProperty Name="activeToken" ColumnName="activeToken" />
+          <ScalarProperty Name="firstLogin" ColumnName="firstLogin" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="avatar" ColumnName="avatar" />
+          <ScalarProperty Name="describes" ColumnName="describes" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="createAt" ColumnName="createAt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="uv_login_tokens">
+      <EntityTypeMapping TypeName="usevnModel.uv_login_tokens">
+        <MappingFragment StoreEntitySet="uv_login_tokens">
+          <ScalarProperty Name="createAt" ColumnName="createAt" />
+          <ScalarProperty Name="tokenLogin" ColumnName="tokenLogin" />
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

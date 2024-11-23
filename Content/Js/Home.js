@@ -19,27 +19,25 @@ function swiperSettings() {
 
 // Set status element for storage
 const contIcons = $('.cont-icons');
-
 const btHideContIcons = $('.hide-icons-taskbar');
 const btShowContIcons = $('.show-icon-taskbar');
 
-
 // Storage Status
 function storageHideConIcons() {
-    localStorageCore.storage('hideConIcons-saved', 'true');
+    RootlocalStorageCore.storage('hideConIcons-saved', 'true');
 }
 
 function hideConIcons() {
-    TypeClass.class('add', contIcons, 'show');
-    TypeClass.class('add', btShowContIcons, 'show');
+    RootTypeClass.class('add', contIcons, 'show');
+    RootTypeClass.class('add', btShowContIcons, 'show');
     storageHideConIcons();
 }
 
 // Show taskbar
 function renderShowConIcons(type) {
     const identifyAction = (type === 'yes') ? 'add' : 'remove';
-    TypeClass.class(`${identifyAction}`, contIcons, 'show');
-    TypeClass.class(`${identifyAction}`, btShowContIcons, 'show');
+    RootTypeClass.class(`${identifyAction}`, contIcons, 'show');
+    RootTypeClass.class(`${identifyAction}`, btShowContIcons, 'show');
 }
 
 function showConIcons(nameStorage) {
@@ -50,7 +48,6 @@ function showConIcons(nameStorage) {
 }
 
 function handleStorageConIconsLeft() {
-    // Action take place 
     renderShowConIcons('yes');
 }
 

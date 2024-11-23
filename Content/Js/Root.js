@@ -42,25 +42,29 @@ const RootDebounces = {
 
 // Function CallAjax
 const RootCallAjax = {
-    get: (url, data, alert = false) => {
-        fetch(url, {
+    post: (url, data, alert = false) => {
+        return fetch(url, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
             },
-            body: JSON.stringify({ data })
+            body: JSON.stringify(data)
         })
-        .then(response => response.json())
-        .then(data => {
-            if (data.code === 200) {
-                if (alert) { console.log('Đã thông báo') }
-                return data.message;
-            } else {
-                console.error('Error: xảy ra lỗi không thực hiện được!')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
             }
+            return response.json(); 
         })
-        .catch(error => {
-            console.error('Catch error:', error);
+        .then(data => {
+            if (alert) {
+                window.alert('Yêu cầu thành công: ' + JSON.stringify(data));
+            }
+            return data; 
+        })
+        .catch((e) => {
+            window.alert('Lỗi khi gửi yêu cầu: ' + e.message);
+            throw e;  
         });
     },
 };
@@ -132,7 +136,7 @@ const RootNoScrollHTML = {
     noScroll: (type) => {
         const html = $('html');
         const identifyAction = (type === 'yes') ? 'add' : 'remove';
-        TypeClass.class(`${identifyAction}`, html, 'noscroll')
+        RootTypeClass.class(`${identifyAction}`, html, 'noscroll')
     }
 };
 
@@ -184,7 +188,7 @@ const RootGetCurrentPageOnURL = {
 // Destroy multiple classes at once
 const RootArrayClasses = {
     set: (identify, elements, className) => {
-        elements.forEach(e => { TypeClass.class(identify, e, className) })
+        elements.forEach(e => { RootTypeClass.class(identify, e, className) })
     }
 };
 
@@ -193,8 +197,8 @@ const RootAlert = {
         const identifyAction = (type === 'yes') ? 'add' : 'remove';
         const identifyActionHtml = (type === 'yes') ? 'yes' : 'no';
 
-        TypeClass.class(`${identifyAction}`, $('.modal-content'), 'show');
-        TypeClass.class(`${identifyAction}`, $('.modal-overlay'), 'show');
+        RootTypeClass.class(`${identifyAction}`, $('.modal-content'), 'show');
+        RootTypeClass.class(`${identifyAction}`, $('.modal-overlay'), 'show');
 
         // Action identify html class no scroll
         NoScrollHTML.noScroll(`${identifyActionHtml}`);
@@ -253,10 +257,11 @@ const RootDownloadPDF = {
 const rootJavascript = {
     handleEvents: () => {
         document.addEventListener('DOMContentLoaded', () => {
-            TypeClass.class('add', loadingWebsite, 'load');
+            if (loadingWebsite)
+                RootTypeClass.class('add', loadingWebsite, 'load');
 
             imagePowerpoints.forEach((element) => {
-                TypeClass.class('add', element, 'loadFinished');
+                RootTypeClass.class('add', element, 'loadFinished');
             })
 
             buttons.forEach((btn) => { btn.onclick = (e) => { e.preventDefault() } });

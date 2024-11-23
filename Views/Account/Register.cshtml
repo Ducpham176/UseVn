@@ -1,7 +1,8 @@
 ﻿@{
-    ViewBag.Title = "Register";
+    ViewBag.Title = "Đăng kí";
     Layout = null;
 }
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,6 +17,7 @@
     <title>Đăng nhập UseVn | Website giao dịch đồ dùng xã hội</title>
     <link href="~/Content/Css/Root.css" rel="stylesheet" />
     <link href="~/Content/Css/Account/Register_Login.css" rel="stylesheet" />
+    <link href="~/Content/Libary/cute-alert/style.css" rel="stylesheet">
 </head>
 <body>
     <div class="block-top"></div>
@@ -97,13 +99,13 @@
                     </div>
                     <div class="form-groups">
                         <div class="form-control">
-                            <button type="submit" id="btn-register" class="btn-gradient" title="Đăng ký">Đăng ký</button>
+                            <button id="btn-register" class="btn-gradient" title="Đăng ký">Đăng ký</button>
                         </div>
                     </div>
                     <div class="form-groups">
                         <div class="form-control">
                             <div class="form-text-center">
-                                <span class="text-content-span">Bạn đã có tài khoản?</span><a href="/usego/account/logind">Đăng nhập</a>
+                                <span class="text-content-span">Bạn đã có tài khoản?</span><a href="/Account/Login">Đăng nhập</a>
                             </div>
                         </div>
                     </div>
@@ -117,7 +119,7 @@
                 </form>
                 <!-- Loading -->
                 <div class="loading-ss">
-                    <img src="<?= _TEMPLATE . 'images/icons/circle-Loading.gif' ?>" width="40">
+                    <img src="~/Image/Icons/circle-Loading.gif" />
                 </div>
             </div>
         </main>
@@ -179,5 +181,6 @@
     <script src="~/Content/Js/Root.js"></script>
     <script src="~/Content/Js/Account/Register.js"></script>
     <script src="~/Content/Js/Account/Forgot.js"></script>
+    <script src="~/Content/Libary/cute-alert/cute-alert.js"></script>
 </body>
 </html>
