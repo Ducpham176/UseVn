@@ -1,0 +1,867 @@
+﻿.container-logind {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    height: auto;
+    min-height: 105vh;
+    padding-bottom: 15px;
+    box-sizing: border-box;
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+    .container-logind header .header-account {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        min-height: 84px;
+        width: 100vw;
+        top: 0;
+        padding: 0 50px;
+        box-sizing: border-box;
+        background: #ffffff;
+        backdrop-filter: blur(15px);
+        -webkit-box-shadow: 0 0 20px rgba(0,0,0,0.05);
+        box-shadow: 0 0 20px rgba(0,0,0,0.05);
+    }
+
+@media (max-width: 767px) {
+    .container-logind-bg-repeat {
+        filter: brightness(0%);
+    }
+
+    .container-logind {
+        background-position: center center !important;
+    }
+}
+
+.loading-effect-top {
+    position: absolute;
+    height: 4px;
+    background: linear-gradient(70.06deg, #F44562 -5%, #f445b5 106%);
+    width: 0;
+    left: 0;
+    bottom: 0;
+    transition: all .2s ease
+}
+
+.container-logind header .header-account .left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+    .container-logind header .header-account .left a {
+        display: flex;
+        align-items: center;
+    }
+
+    .container-logind header .header-account .left img {
+        width: 45px;
+        object-fit: cover;
+        border-radius: 8px;
+        border: 1px solid var(--white);
+    }
+
+    .container-logind header .header-account .left span {
+        font-size: 21px;
+        color: #3f3f3f
+    }
+
+.container-logind header .header-account .right .collect-tips {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    position: absolute;
+    transform: translateY(18px) scale(0.9);
+    top: 60px;
+    right: 20px;
+    width: 200px;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 250ms
+}
+
+    .container-logind header .header-account .right .collect-tips .arrow-item {
+        width: 65px;
+        transform: translateY(-2.5px)
+    }
+
+    .container-logind header .header-account .right .collect-tips span {
+        color: var(--white);
+        background: #00000099;
+        padding: 8px 10px;
+        font-weight: 300;
+        border: 1px double #d4d4d49f;
+        letter-spacing: 0.35px;
+        border-radius: 12px;
+        cursor: default;
+        font-size: 16px;
+        box-shadow: 0px 1.5px 2px #1212142f;
+    }
+
+.container-logind header .header-account .right a {
+    color: #f33a58;
+    text-decoration: none;
+}
+
+.container-logind header .header-account .right:hover .collect-tips {
+    opacity: 1;
+    visibility: unset;
+    transform: none;
+}
+
+.container-logind header .header-account .right .collect-tips.show {
+    opacity: 1;
+    visibility: unset;
+    transform: none;
+    animation: effectTips 2s ease;
+}
+
+@keyframes effectTips {
+    0% {
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    ;
+}
+
+@media (max-width: 767px) {
+    .container-logind header .header-account {
+        position: fixed;
+        top: 0;
+        left: 0;
+        justify-content: center;
+        max-height: 68px;
+        min-height: 68px;
+        background: #ffffff;
+        backdrop-filter: blur(15px);
+        -webkit-backdrop-filter: blur(15px);
+        border-bottom: 1px solid #e8ebed;
+        z-index: 2;
+    }
+
+        .container-logind header .header-account .left {
+            white-space: nowrap;
+        }
+
+        .container-logind header .header-account .right {
+            position: fixed;
+            top: 90px;
+            right: 15px;
+        }
+
+        .container-logind header .header-account .left span {
+            color: #222222;
+            white-space: nowrap;
+        }
+
+        .container-logind header .header-account .right .collect-tips span {
+            border: 0.2px groove #ffffff9f;
+        }
+
+        .container-logind header .header-account .left img {
+            width: 40px;
+        }
+}
+
+/* Form */
+
+.main-account {
+    position: relative;
+    transition: all .2s ease;
+    border-radius: 35px;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+    .main-account::before {
+        content: '';
+        position: absolute;
+        width: 104%;
+        height: 103%;
+        top: 50%;
+        left: 50%;
+        background: #ffffff1f;
+        transform: translate(-50%, -50%);
+        border-radius: 35px;
+    }
+
+.form-account {
+    margin-top: 20px;
+    display: grid;
+    width: 37vw;
+    height: 100%;
+    padding: 30px;
+    background: var(--white);
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,.08);
+    border-radius: 28px;
+}
+
+    .form-account .lists-logind-others {
+        display: flex;
+        justify-content: space-around;
+        border-radius: 8px;
+        z-index: 0;
+    }
+
+        .form-account .lists-logind-others li {
+            display: flex;
+        }
+
+            .form-account .lists-logind-others li a {
+                display: flex;
+                align-items: center;
+                gap: 15px;
+                text-decoration: none;
+                padding: 5px 27px;
+                box-sizing: border-box;
+                background: linear-gradient(-50.06deg, #65d1ff1f -5%, #ffffff1f 106%);
+                box-shadow: 0 7px 30px -5px rgba(0,0,0,.0);
+                border-radius: 12px;
+                border: 1px solid #dedede1f;
+                cursor: pointer;
+                transition: all .2s
+            }
+
+                .form-account .lists-logind-others li a img {
+                    width: 40px;
+                    padding: 3px;
+                    box-sizing: border-box;
+                }
+
+                .form-account .lists-logind-others li a span {
+                    color: #5a5a63;
+                }
+
+                .form-account .lists-logind-others li a:hover {
+                    filter: brightness(120%)
+                }
+
+@media (max-width: 767px) {
+    .form-account .lists-logind-others {
+        justify-content: space-between;
+    }
+
+        .form-account .lists-logind-others li {
+            flex-basis: 50%;
+            box-sizing: border-box;
+        }
+
+            .form-account .lists-logind-others li a {
+                padding: 5px;
+                justify-content: center;
+                width: 100%;
+                margin: 0 5px;
+                border-radius: 11px;
+                background: linear-gradient(-50.06deg, #65d1ff1f -5%, #ffffff1f 106%);
+                border: 0.1px solid #fcfcfc6f;
+            }
+
+                .form-account .lists-logind-others li a span {
+                    color: #f8f8f899;
+                    display: none;
+                }
+
+    .container-logind header .header-account .right .collect-tips {
+        top: 30px;
+        right: 0;
+    }
+
+        .container-logind header .header-account .right .collect-tips span {
+            backdrop-filter: blur(55px);
+            white-space: wrap;
+        }
+
+    .form-account .lists-logind-others li a img {
+        padding: 5px;
+    }
+}
+
+.form-account .form-groups {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100%;
+    margin: 5px 0;
+}
+
+    .form-account .form-groups .form-control {
+        position: relative;
+        display: grid;
+        width: 100%;
+    }
+
+        .form-account .form-groups .form-control .form-text-center {
+            text-align: center;
+            padding: 10px 0;
+            ;
+        }
+
+            .form-account .form-groups .form-control .form-text-center .text-content-span {
+                margin-right: 6px;
+                font-weight: 300
+            }
+
+            .form-account .form-groups .form-control .form-text-center a {
+                color: #f33a58;
+                text-decoration: none;
+                font-weight: 500;
+                font-family: inherit
+            }
+
+        .form-account .form-groups .form-control .rules-text {
+            text-align: center;
+            line-height: 1.5rem;
+            color: #666;
+            padding: 10px 25px;
+        }
+
+            .form-account .form-groups .form-control .rules-text span {
+                font-size: 12px;
+            }
+
+            .form-account .form-groups .form-control .rules-text a {
+                color: #666;
+                font-weight: 300;
+                text-decoration: underline;
+            }
+
+        .form-account .form-groups .form-control small {
+            margin: 8px 0 8px 8px;
+            font-size: 12px;
+            color: #404040;
+            font-weight: 300;
+            padding: 2px 0;
+            cursor: default;
+        }
+
+            .form-account .form-groups .form-control small::selection {
+                background: transparent
+            }
+
+        .form-account .form-groups .form-control span {
+            margin: 10px 0 10px 4px;
+            font-weight: 500;
+            font-size: 14px;
+            cursor: default;
+        }
+
+        .form-account .form-groups .form-control .input-field {
+            background: rgba(232, 237, 255, 0.8);
+            border: 1.5px solid rgba(22,24,35,.06);
+            padding: 12px 20px;
+            font-family: inherit;
+            outline: none;
+            box-sizing: border-box;
+            height: 44px;
+            border-radius: 99px;
+            ;
+            font-weight: 300;
+            font-size: 14px;
+            overflow: hidden;
+            transition: all .1s ease
+        }
+
+            .form-account .form-groups .form-control .input-field:not([disabled]):not([readonly]):focus {
+                border: 1.5px solid #19d1cf !important;
+            }
+
+
+        .form-account .form-groups .form-control input[name="otp"] {
+            color: #646464;
+            font-weight: 500;
+            font-family: inherit;
+        }
+
+            .form-account .form-groups .form-control input[name="otp"]::placeholder {
+                font-weight: 300;
+            }
+
+        .form-account .form-groups .form-control .Form-message-error {
+            color: #f33a58;
+            font-size: 12px;
+            line-height: 1.5;
+            font-weight: 500;
+            margin: 8px 0 8px 8px;
+            cursor: default;
+        }
+
+            .form-account .form-groups .form-control .Form-message-error::selection {
+                background: transparent;
+            }
+
+        .form-account .form-groups .form-control .btn-otp {
+            position: absolute;
+            right: 0;
+            top: 0;
+            padding: 0 20px;
+            bottom: 0;
+            border-radius: 99px;
+            align-items: center;
+            border-radius: 44px;
+            display: flex;
+            font-size: 14px;
+            border: none;
+            font-weight: 600;
+            font-family: inherit;
+            justify-content: center;
+            margin: 1px;
+            outline: none;
+            min-width: 140px;
+            white-space: nowrap;
+            background: var(--white);
+            color: #757575;
+            box-shadow: 0px 2px 4px 0px #0000001f;
+            border: 1px solid #f8f8f8;
+            transition: all .1s ease;
+            cursor: pointer;
+        }
+
+        .form-account .form-groups .form-control .btn-accuracy {
+            position: absolute;
+            right: 0;
+            top: 0;
+            padding: 0 20px;
+            bottom: 0;
+            border-radius: 99px;
+            align-items: center;
+            border-radius: 44px;
+            display: flex;
+            font-size: 14px;
+            border: none;
+            font-weight: 600;
+            font-family: inherit;
+            justify-content: center;
+            margin: 1px;
+            outline: none;
+            min-width: 140px;
+            white-space: nowrap;
+            background: var(--white);
+            color: #757575;
+            box-shadow: 0px 2px 4px 0px #0000001f;
+            border: 1px solid #f8f8f8;
+            transition: all .1s ease;
+            cursor: pointer;
+            display: none;
+            visibility: hidden;
+        }
+
+
+            .form-account .form-groups .form-control .btn-accuracy.on-show {
+                display: block;
+                visibility: unset;
+            }
+
+        .form-account .form-groups .form-control .btn-otp.otpsend {
+            color: var(--white);
+            background: linear-gradient(to left, #97a9ee, #61dae4);
+            cursor: pointer;
+            transition: all .1s ease;
+        }
+
+        .form-account .form-groups .form-control .btn-otp.no-cursor {
+            cursor: default;
+        }
+
+        .form-account .form-groups .form-control .btn-otp:hover {
+            filter: brightness(95%)
+        }
+
+        .form-account .form-groups .form-control .FormInput_disabled {
+            background-color: #dcdcdc;
+            color: #757575;
+            cursor: not-allowed;
+            box-shadow: none;
+        }
+
+            .form-account .form-groups .form-control .FormInput_disabled:hover {
+                filter: brightness(100%);
+            }
+
+        .form-account .form-groups .form-control .btn-gradient {
+            border-radius: 99px;
+            align-items: center;
+            border-radius: 44px;
+            display: flex;
+            padding: 12px 16px;
+            margin: 12px 0;
+            font-weight: bold;
+            color: #eee;
+            text-shadow: 0.5px 0.5px 1px #bababa1f;
+            font-size: 16px;
+            font-family: inherit;
+            border: none;
+            outline: none;
+            background: linear-gradient(70.06deg, #19d1cf -5%, #19d1cf 106%);
+            justify-content: center;
+            box-shadow: 0px 2px 4px 0px #0000000f;
+            cursor: not-allowed;
+            box-shadow: -16px -16px 27px 0 rgba(255, 255, 255, 0.5), 16px 16px 27px 0 rgba(37, 59, 176, 0.14);
+            transition: all .1s ease
+        }
+
+            .form-account .form-groups .form-control .btn-gradient.on {
+                position: relative;
+                overflow: hidden;
+                cursor: pointer;
+                background: linear-gradient(70.06deg, #65d1ff -5%, #aa63ff 106%);
+            }
+
+#btn-submit-forgot {
+    display: none;
+    cursor: pointer;
+}
+
+.form-account .form-groups .form-control .btn-forgot-password {
+    background: linear-gradient(to left, #728beb, #61dae4);
+    cursor: not-allowed;
+}
+
+    .form-account .form-groups .form-control .btn-forgot-password.on {
+        position: relative;
+        background: linear-gradient(to left, #728beb, #61dae4);
+        overflow: hidden;
+        cursor: pointer;
+    }
+
+    .form-account .form-groups .form-control .btn-forgot-password.off {
+        filter: brightness(80%);
+        cursor: not-allowed;
+    }
+
+.form-account .form-groups .form-control .btn-gradient.on::before {
+    content: '';
+    position: absolute;
+    height: 15px;
+    width: 100%;
+    background: #ffffff3f;
+    transform: rotate(45deg);
+    top: 0;
+    left: 60%;
+    border-radius: 99px;
+    transition: left .50s ease-in-out;
+}
+
+.form-account .form-groups .form-control .btn-gradient.on:hover::before {
+    left: -60%;
+    height: 14px;
+}
+
+@media (max-width: 767px) {
+    .form-account {
+        margin-top: 20px;
+        width: 95vw;
+        padding: 30px 20px;
+        margin-top: 140px;
+        box-sizing: border-box;
+        backdrop-filter: blur(1px);
+        -webkit-backdrop-fil1ter: blur(15px);
+        ;
+        box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+        border: 1px solid #e8ebed99
+    }
+
+        .form-account .form-groups .form-control .Form-message-error {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .form-account .form-groups .form-control span {
+            color: #0606069f
+        }
+
+        .form-account .form-groups .form-control small {
+            color: #5858589f
+        }
+
+        .form-account .form-groups .form-control .input-field {
+            color: #282828
+        }
+
+        .form-account .form-groups .form-control .rules-text {
+            padding: 10px 0px;
+        }
+
+    .main-account::before {
+        display: none;
+    }
+}
+
+.not-interact {
+    cursor: default;
+}
+
+
+/* Loading ...*/
+.loading-ss {
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    background: #0000006f;
+    backdrop-filter: blur(0.05px);
+    -webkit-backdrop-filter: blur(0.05px);
+    width: 100%;
+    height: 100%;
+    border-radius: 28px;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    margin: 0;
+    display: none;
+    cursor: default;
+}
+
+    .loading-ss.loading {
+        display: flex !important;
+    }
+
+    .loading-ss img {
+        width: 95px;
+        opacity: 0.7
+    }
+
+/* FORGOT PASSWORD CSS */
+
+.container-forgot-password {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #00000099 !important;
+    width: 100%;
+    height: 100%;
+    transition: all .2s ease
+}
+
+    .container-forgot-password.active {
+        display: flex;
+        z-index: 2;
+    }
+
+    .container-forgot-password.alway {
+        display: flex !important;
+        z-index: 2 !important;
+    }
+
+    .container-forgot-password .form-account {
+        position: relative;
+        height: auto;
+        width: 33vw;
+        padding: 40px 20px;
+        border: 2px solid #ebebeb99;
+        box-shadow: 0px 3px 1px #1313133f;
+    }
+
+    .container-forgot-password .form-item-reset {
+        display: none;
+        justify-content: flex-end;
+        width: 78%;
+        margin: 0 auto;
+        margin-bottom: 15px;
+        transition: all .2s ease
+    }
+
+        .container-forgot-password .form-item-reset .btnReset-forgot-password {
+            border: 1.5px double #d8d8d80f;
+            background: #eff6ff;
+            padding: 7px 16px;
+            color: #126dff;
+            border-radius: 7px;
+            font-family: inherit;
+            cursor: pointer;
+            transition: all .2s ease
+        }
+
+            .container-forgot-password .form-item-reset .btnReset-forgot-password i {
+                color: #126dff;
+                font-size: 12px;
+                transition: all .2s ease;
+            }
+
+            .container-forgot-password .form-item-reset .btnReset-forgot-password:hover {
+                opacity: 0.8
+            }
+
+                .container-forgot-password .form-item-reset .btnReset-forgot-password:hover i {
+                    transform: rotate(90deg);
+                }
+
+    .container-forgot-password .form-account .switch-items {
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        background: rgba(22,24,35,.06);
+        margin: 0 auto;
+        margin-bottom: 15px;
+        padding: 5px;
+        border-radius: 12px;
+    }
+
+        .container-forgot-password .form-account .switch-items .item-swit {
+            text-align: center;
+            color: #222;
+            font-size: 15px;
+            min-width: 50px;
+            padding: 8.4px 35px;
+            border-radius: 10px;
+            transition: all .2ss ease;
+            cursor: pointer;
+        }
+
+@media (max-width: 767px) {
+    .container-forgot-password {
+        background: #0000007f;
+    }
+}
+
+.bxs-badge-check {
+    color: #2c78d5;
+}
+
+.container-forgot-password .form-account .switch-items .item-swit:hover {
+    opacity: 0.7
+}
+
+.container-forgot-password .form-account .switch-items .item-swit.show {
+    background: var(--white);
+    box-shadow: 0px 1px 2px #3333332f;
+}
+
+.container-forgot-password .form-account .form-groups .form-control {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-forgot-password .form-account .form-groups .Form-message-error {
+    width: 80%;
+}
+
+.container-forgot-password .form-account .form-groups {
+    display: flex;
+    justify-content: center;
+}
+
+    .container-forgot-password .form-account .form-groups .clock-time-delay {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        right: 12%;
+        top: -13%;
+        max-height: 44px;
+        height: 100%;
+        color: #fa51519f;
+        padding: 0 10px;
+        border-radius: 50%;
+    }
+
+.container-forgot-password .form-account .g-recaptcha {
+    margin: auto;
+    margin-top: 14px;
+}
+
+.container-forgot-password .form-account input[name="emailForgot"] {
+    width: 80%;
+    transition: all .2s ease;
+    color: #111 !important;
+}
+
+    .container-forgot-password .form-account input[name="emailForgot"].hidden {
+        display: none;
+    }
+
+.container-forgot-password .form-account input[name="otpForgot"] {
+    width: 80%;
+    transition: all .2s ease;
+    color: #111 !important;
+}
+
+    .container-forgot-password .form-account input[name="otpForgot"].hidden {
+        display: none;
+    }
+
+.container-forgot-password .form-account input[name="passwordForgot"] {
+    width: 80%;
+    transition: all .2s ease;
+    color: #111 !important;
+}
+
+    .container-forgot-password .form-account input[name="passwordForgot"].hidden {
+        display: none;
+    }
+
+.container-forgot-password .form-account .btn-forgot-password {
+    width: 80%;
+    border-radius: 99px;
+    align-items: center;
+    border-radius: 44px;
+    display: flex;
+    padding: 12px 16px;
+    margin: 12px 0;
+    font-weight: bold;
+    color: #eee;
+    text-shadow: 0.5px 0.5px 1px #bababa1f;
+    font-size: 16px;
+    font-family: inherit;
+    border: none;
+    outline: none;
+    justify-content: center;
+    box-shadow: 0px 2px 4px 0px #0000000f;
+    cursor: pointer;
+    transition: all .1s ease;
+}
+
+.g-recaptcha.active {
+    display: none !important;
+}
+
+@media (max-width: 767px) {
+    .container-forgot-password .form-account {
+        width: 95vw;
+        background: #ffffff;
+        border: 2px solid #ebebeb;
+        backdrop-filter: blur(25px);
+        border-radius: 10px;
+    }
+
+        .container-forgot-password .form-account::before {
+            display: none;
+        }
+
+    .container-forgot-password .form-account {
+        margin: 0 auto;
+    }
+
+        .container-forgot-password .form-account input[name="emailForgot"] {
+            width: 95%;
+        }
+
+        .container-forgot-password .form-account input[name="otpForgot"] {
+            width: 95%;
+        }
+
+        .container-forgot-password .form-account input[name="passwordForgot"] {
+            width: 95%;
+        }
+
+        .container-forgot-password .form-account .btn-forgot-password {
+            width: 95%
+        }
+}
+
+body.active,
+html.active {
+    overflow: hidden;
+    height: 100vh;
+    max-height: 100vh;
+}

@@ -1,0 +1,161 @@
+﻿
+@{
+    ViewBag.Title = "LichSuChamSoc";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container-fluid">
+
+    <div class="row">
+        <div class="col-12">
+            <div class="page-title-box">
+
+                <h4 class="page-title">General Elements</h4>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="header-title">Tìm kiếm thông tin</h4>
+
+                    <br>
+                    <form class="form-horizontal">
+                        <div class="form-group row">
+                            <label class="col-lg-2 col-form-label" for="simpleinput">
+                                Tên Khách
+                                Hàng
+                            </label>
+                            <div class="col-lg-3">
+                                <input type="text" class="form-control" id="simpleinput">
+                            </div>
+                            <label class="col-lg-2 col-form-label" for="simpleinput">
+                                Nhân Viên Chăm
+                                Sóc
+                            </label>
+                            <div class="col-lg-3">
+                                <select class="form-control" id="simpleinput">
+                                    <option value="">--Chọn Nhân Viên--</option>
+                                    <option value="">Nguyễn Văn A</option>
+                                    <option value="">Nguyễn Văn B</option>
+                                    <option value="">Nguyễn Văn C</option>
+                                    <option value="">Hoàng Thị Hậu</option>
+                                </select>
+                            </div>
+                        </div>
+                    </form>
+
+                    <br>
+                    <form class="form-horizontal">
+                        <div class="form-group row">
+                            <label class="col-lg-2 col-form-label" for="simpleinput">Thời gian</label>
+                            <div class="col-lg-2">
+                                <select class="form-control" name="" id="simpleinput">
+                                    <option value="">--Chọn thời gian--</option>
+                                    <option value="">Thứ 2</option>
+                                    <option value="">Thứ 3</option>
+                                    <option value="">Thứ 4</option>
+                                    <option value="">Thứ 5</option>
+                                    <option value="">Thứ 6</option>
+                                    <option value="">Thứ 7</option>
+                                    <option value="">Chủ nhật</option>
+                                </select>
+                            </div>
+                            <label class="col-lg-2 col-form-label" for="simpleinput">
+                                Dịch vụ chăm
+                                sóc
+                            </label>
+                            <div class="col-lg-4">
+                                <select class="form-control" name="" id="">
+                                    <option value="">--Chọn dịch vụ--</option>
+                                    <option value="">Chăm sóc da</option>
+                                    <option value="">Tắm trắng</option>
+                                    <option value="">Nặn mụn</option>
+                                </select>
+                            </div>
+                        </div>
+                    </form>
+
+                    <br>
+                    <form class="form-horizontal">
+                        <div class="form-group row">
+                            <label class="col-lg-2 col-form-label" for="simpleinput">
+                                Thời gian
+                                từ
+                            </label>
+                            <div class="col-lg-2">
+                                <input type="text" class="form-control" placeholder="1 giờ -> 1">
+                            </div>
+                            <label class="col-lg-2 col-form-label" for="simpleinput">
+                                Thời gian
+                                đến
+                            </label>
+                            <div class="col-lg-2">
+                                <input type="text" class="form-control" placeholder="1 giờ -> 1">
+                            </div>
+                        </div>
+                    </form>
+
+                    <br>
+                    <div class="table-responsive">
+                        <table class="table mb-0">
+                            <thead class="thead-light">
+                                <tr>
+                                    <th>#</th>
+                                    <th>Tên Khách Hàng</th>
+                                    <th>Số điện thoại</th>
+                                    <th>Dịch vụ</th>
+                                    <th>Nhân viên phục vụ</th>
+                                    <th>Thời gian</th>
+                                    <th>Ngày thực hiện</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>Nguyễn Văn Mạnh</td>
+                                    <td>06548451223</td>
+                                    <td>Tắm Trắng</td>
+                                    <td>Nguyễn Văn A</td>
+                                    <td>Thứ 3</td>
+                                    <td>10/12/2023</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>Nguyễn Văn Cường</td>
+                                    <td>05464525223</td>
+                                    <td>Nặn mụn</td>
+                                    <td>Nguyễn Văn B</td>
+                                    <td>Thứ 6</td>
+                                    <td>23/8/2023</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>Trần Đại Nghĩa</td>
+                                    <td>06548782323</td>
+                                    <td>Chăm sóc da</td>
+                                    <td>Nguyễn Văn C</td>
+                                    <td>Thứ 7</td>
+                                    <td>15/3/2023</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <br>
+
+                    <button type="button" class="btn btn-warning waves-effect waves-light float-right"
+                            data-toggle="modal" data-target="#bs-example-modal-sm">
+                        Tìm Kiếm
+                    </button>
+
+
+                </div> <!-- end card-box -->
+            </div> <!-- end card-->
+        </div><!-- end col -->
+    </div>
+
+</div> <!-- container-fluid -->
